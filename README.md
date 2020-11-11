@@ -7,5 +7,8 @@ I couldn't upload pictures directly to  github, so here is the link to the [goog
 
 
 To use this software :
+
+
 1.Unpack all of them  so that directory wil  look like this : C:\MERTVV\m1 .
+
 2.Move the code to the MERTVV folder .
